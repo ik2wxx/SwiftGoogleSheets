@@ -32,6 +32,7 @@ add credentials of oauth type, fill all required fields and copy into Globals.sw
 Client id must be added to app's Target/Info/Url Types/Url Schemes, in reverse order:
 
 client id example: 123123123-aaabbbcccdddeeefff.apps.googleusercontent.com
+
 reverse order example: com.googleusercontent.apps.123123123-aaabbbcccdddeeefff
 
 go to https://console.cloud.google.com/apis/credentials?project=YOUR_PROJECT_NAME
